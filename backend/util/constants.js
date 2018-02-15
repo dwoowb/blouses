@@ -1,5 +1,5 @@
 const responseMapping = {
-  IN: 'Great, see you at the game!',
+  IN: 'Great, see you there! Please do NOT drink before the game.',
   OUT: 'That\'s too bad, bye bye playing time!',
   MAYBE: 'Okay, well it\'s never too late to change your mind and reply \'In\'',
   COMMANDS: 'Try one of these keywords: \'In\', \'Out\', \'Maybe\', \'Roster\'',
